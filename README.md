@@ -111,6 +111,6 @@ Azure Data Engineer
 
 📍 Chennai, India
 
-🔗 LinkedIn: https://www.linkedin.com/in/kavi-priya-pandian/
+🔗 LinkedIn: https://www.linkedin.com/in/kavi-priya-p/
 
-🔗 GitHub: https://github.com/Kavipriya-Pandian
+🔗 GitHub: https://github.com/Kavi-Priya-P
